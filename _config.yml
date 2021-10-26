@@ -9,7 +9,7 @@ name: Taken
 description: Founder of Team Youth
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: file:///D:/Brave%20Stuff%20acc/2d2eafe179a4d717b047688dac15322a_auto_x2.png
+avatar: https://avatars.githubusercontent.com/u/87672981?v=4
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Taken
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: Taken
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
