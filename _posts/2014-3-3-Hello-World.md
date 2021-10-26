@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Takens First Blog
 published: true
 ---
 YOUTH OT made all by Taken9999
